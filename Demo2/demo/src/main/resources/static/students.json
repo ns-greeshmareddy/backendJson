@@ -1,0 +1,139 @@
+[
+
+  {
+    "id": 1,
+    "firstName": "Akshita",
+    "lastName": "Chamala",
+    "emailId": "akshithachamala1104@gmail.com",
+    "gender": "female",
+    "teacherId": 5002,
+    "classId": "A2"
+  },
+  {
+    "id": 2,
+    "firstName": "ponnie",
+    "lastName": "arumga",
+    "emailId": "arumuga.ponnim@gmail.com",
+    "gender": "female",
+    "teacherId": 5001,
+    "classId": "A1"
+  },
+  {
+    "id": 3,
+    "firstName": "Jotshna",
+    "lastName": "Maddineni",
+    "emailId": "jotshna.maddineni@gmail.com",
+    "gender": "female",
+    "teacherId": 5002,
+    "classId": "A2"
+  },
+  {
+    "id": 4,
+    "firstName": "Greeshma",
+    "lastName": "Reddy",
+    "emailId": "greeshma.19bes7036@vitap.ac.in",
+    "gender": "female",
+    "teacherId": 5002,
+    "classId": "A2"
+  },
+  {
+    "id": 5,
+    "firstName": "sai",
+    "lastName": "madhusree",
+    "emailId": "madhu.kane2001@gmail.com",
+    "gender": "female",
+    "teacherId": 5002,
+    "classId": "A2"
+  },
+  {
+    "id": 6,
+    "firstName": "Lakshimi",
+    "lastName": "prassana",
+    "emailId": "prasanna3002@gmail.com",
+    "gender": "female",
+    "teacherId": 5001,
+    "classId": "A1"
+  },
+  {
+    "id": 7,
+    "firstName": "preethi",
+    "lastName": "Reddy",
+    "emailId": "preethir1402@gmail.com",
+    "gender": "female",
+    "teacherId": 5003,
+    "classId": "A3"
+  },
+  {
+    "id": 8,
+    "firstName": "preethi",
+    "lastName": "Ravikumar",
+    "emailId": "preethiravikumar2105@gmail.com",
+    "gender": "female",
+    "teacherId": 5003,
+    "classId": "A3"
+  },
+  {
+    "id": 9,
+    "firstName": "Sri",
+    "lastName": "nithya",
+    "emailId": "srinithya123@gmail.com",
+    "gender": "female",
+    "teacherId": 5002,
+    "classId": "A4"
+  },
+  {
+    "id": 10,
+    "firstName": "Poorna ",
+    "lastName": "Shreya",
+    "emailId": "Shreya154@gmail.com",
+    "gender": "female",
+    "teacherId": 5002,
+    "classId": "A4"
+  },
+  {
+    "id": 11,
+    "firstName": "Jyothi",
+    "lastName": "Reddy",
+    "emailId": "jyothireddy123@gmail.com",
+    "gender": "female",
+    "teacherId": 5002,
+    "classId": "A4"
+  },
+  {
+    "id": 12,
+    "firstName": "Tejasree",
+    "lastName": "Reddy",
+    "emailId": "tejasree2@gmail.com",
+    "gender": "female",
+    "teacherId": 5003,
+    "classId": "A3"
+  },
+  {
+    "id": 13,
+    "firstName": "Manogna",
+    "lastName": "Jutur",
+    "emailId": "manu.jutur2002@gmail.com",
+    "gender": "female",
+    "teacherId": 5003,
+    "classId": "A3"
+  },
+  {
+    "id": 14,
+    "firstName": "sai",
+    "lastName": "Lasya",
+    "emailId": "Lasya.kosuri@gmail.com",
+    "gender": "female",
+    "teacherId": 5001,
+    "classId": "A1"
+  },
+  {
+    "id": 15,
+    "firstName": "rachana",
+    "lastName": "nagavali",
+    "emailId": "rachu001@gmail.com",
+    "gender": "female",
+    "teacherId": 5001,
+    "classId": "A1"
+  }
+
+]
